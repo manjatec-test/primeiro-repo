@@ -1,0 +1,15 @@
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/bin/Debug/net8.0/primeiro-repo
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/bin/Debug/net8.0/primeiro-repo.deps.json
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/bin/Debug/net8.0/primeiro-repo.runtimeconfig.json
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/bin/Debug/net8.0/primeiro-repo.dll
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/bin/Debug/net8.0/primeiro-repo.pdb
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.AssemblyInfoInputs.cache
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.AssemblyInfo.cs
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.csproj.CoreCompileInputs.cache
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.sourcelink.json
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.dll
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/refint/primeiro-repo.dll
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.pdb
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/primeiro-repo.genruntimeconfig.cache
+/Users/marcioj.fsantos/estudos/git-actions/primeiro-repo/obj/Debug/net8.0/ref/primeiro-repo.dll
