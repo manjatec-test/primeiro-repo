@@ -10,9 +10,16 @@ jobs:
     steps:
       - name: "Minha primeira acao"
         run: echo "hello world"
+
       - name: "Segunda acao"
-        run: 
+        run: |
           echo "voce criou a primeira pipeline"
           echo "parabens"
+      
+      - name: "Script python"
+        run: |
+          variavel= "hello word"
+          print(variavel)
+        shell: python
       
       
