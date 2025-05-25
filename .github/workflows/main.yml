@@ -25,8 +25,17 @@ jobs:
   segundo-job:
     name: "instalcaaoo do ambiente node js"
     runs-on: ubuntu-latest
+
     steps:
        - name: "verificar a versao do nodejs"
          run: node --version
 
-      
+       - name: "Definicao da versao 22.16.0"
+       - uses: actions/setup-node@v4
+         with:
+           node-version: '22.16.0'
+           
+       - name: "verificar a versao do nodejs"
+         run: node --version
+
+
