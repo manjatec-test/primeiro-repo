@@ -21,5 +21,12 @@ jobs:
           variavel= "hello word"
           print(variavel)
         shell: python
-      
+  
+  segundo-job:
+    name: "instalcaaoo do ambiente node js"
+    runs-on: ubuntu-latest
+    steps:
+       - name: "verificar a versao do nodejs"
+       run: node --version
+       
       
